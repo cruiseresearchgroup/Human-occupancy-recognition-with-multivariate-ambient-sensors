@@ -21,6 +21,7 @@ The repository is structured as follows:
 - `code/`: Code implementation and evaluation.  
 - `data/`: Preprocessed dataset used for this paper. 
 - `paper/`: Formal description of the algorithm and evaluation result. 
+- `presentation/`: PDF of paper presentation. 
 
 ## Possible Applications
 
