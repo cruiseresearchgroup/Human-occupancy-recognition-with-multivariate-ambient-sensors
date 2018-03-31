@@ -7,9 +7,9 @@ With advancement in sensors and Internet of Things, gathering spatiotemporal inf
 This repository contains resources developed within the following paper:
 
 	Ang, I.B.A., Salim, F.D. and Hamilton, M., 2016, March. Human occupancy recognition with multivariate ambient sensors. 
-  In IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), 2016 (pp. 1-6). IEEE.
+	In IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops), 2016 (pp. 1-6). IEEE.
 
-You can find the [paper](link_to) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/Human-occupancy-recognition-with-multivariate-ambient-sensors/blob/master/paper/ariefang2016human.pdf) in this repository. 
 
 Alternative link: http://ieeexplore.ieee.org/document/7457116/
 
