@@ -1,7 +1,7 @@
 > **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
 *The BibTeX entry is provided at the bottom of this page. 
 
-# Human occupancy recognition with multivariate ambient sensors
+# Human Occupancy Recognition with Multivariate Ambient Sensors
 With advancement in sensors and Internet of Things, gathering spatiotemporal information from one's surroundings has become easier, to an extent that we can start to use sensor data to infer indoor occupancy patterns. This paper aims to identify which ambient sensor is the most dominant in recognising human presence. Four different types of off-the-shelf sensors from two manufacturers were deployed to ensure that we could collect the following data reliably: illumination, temperature, humidity, levels of carbon dioxide, pressure and sound from within one staff office. Motion, power consumption, door opening and closing data and annotations from a self-developed mobile app were also collected as ground truth. We present our methods to preprocess the data and compute the number of people in the room with different classifiers, and identify sensors with strong and weak correlations. We explain our methodology for integrating large amounts of sensor data, discuss our experiments and findings in relation to the binary occupancy of a single person office, providing a baseline for recognising human occupancy.
 
 This repository contains resources developed within the following paper:
